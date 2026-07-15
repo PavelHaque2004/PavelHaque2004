@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm Pavel Haque</h1>
-<h3 align="center">ICT Student | Aspiring Full Stack Developer | MERN Stack Learner</h3>
+<h1 align="center">Hi , I'm Pavel Haque</h1>
+<h3 align="center">ICT Student | Aspiring Full Stack Developer | </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ICT+Student+at+CSTU;Full+Stack+Developer;Learning+MERN+Stack;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ICT+Student+at+CSTU;Full+Stack+Developer;Always+Learning+New+Things"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 ICT Student at **Chandpur Science and Technology University (CSTU)**
-💻 Aspiring Full Stack Developer
-🌐 Passionate about Web Development & Open Source
-📚 Learning Data Structures & Algorithms
-🚀 Building Real-World Projects and Improving Every Day
-🎯 Interested in Software Engineering & Problem Solving
-📖 Always Learning New Technologies
-✨ Goal: Become a Skilled Full Stack Developer
+ ICT Student at **Chandpur Science and Technology University (CSTU)**
+ Aspiring Full Stack Developer
+ Passionate about Web Development & Open Source
+ Learning Data Structures & Algorithms
+ Building Real-World Projects and Improving Every Day
+ Always Learning New Technologies
+ Goal: Become a Skilled Full Stack Developer
 
 
 ---
@@ -24,7 +23,7 @@
 # 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,java,git,github,vscode"/>
 </p>
 
 
