@@ -9,11 +9,15 @@
 
 # 🚀 About Me
 
-- 🎓 ICT Student at **Chandpur Science and Technology University (CSTU)**
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning MERN Stack
-- 📚 Learning Data Structures & Algorithms
-- 🎯 Goal: Become a Software Engineer
+🎓 ICT Student at **Chandpur Science and Technology University (CSTU)**
+💻 Aspiring Full Stack Developer
+🌐 Passionate about Web Development & Open Source
+📚 Learning Data Structures & Algorithms
+🚀 Building Real-World Projects and Improving Every Day
+🎯 Interested in Software Engineering & Problem Solving
+📖 Always Learning New Technologies
+✨ Goal: Become a Skilled Full Stack Developer
+
 
 ---
 
@@ -23,16 +27,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,java,git,github,vscode"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PavelHaque2004&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelHaque2004&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -46,7 +40,7 @@
 
 - 🌐 Portfolio Website
 - 🎬 MovieFlix
-- 🎓 Student Management System
+
 
 ---
 
@@ -65,9 +59,9 @@
 
 📧 Email: **pavelhaque545@gmail.com**
 
-🌐 Portfolio: *(Add your portfolio link here)*
+🌐 Portfolio: *(https://marvelous-faun-d59ba5.netlify.app/)*
 
-💼 LinkedIn: *(Add your LinkedIn profile here)*
+
 
 ---
 
