@@ -7,7 +7,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 ICT Student at **Chandpur Science and Technology University (CSTU)**
 
