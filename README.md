@@ -9,13 +9,21 @@
 
 # 🚀 About Me
 
- ICT Student at **Chandpur Science and Technology University (CSTU)**
- Aspiring Full Stack Developer
- Passionate about Web Development & Open Source
- Learning Data Structures & Algorithms
- Building Real-World Projects and Improving Every Day
- Always Learning New Technologies
- Goal: Become a Skilled Full Stack Developer
+🎓 ICT Student at **Chandpur Science and Technology University (CSTU)**
+
+💻 Aspiring Full Stack Developer
+
+🌐 Passionate about Web Development & Open Source
+
+📚 Currently Learning Data Structures & Algorithms
+
+🚀 Building Real-World Projects Every Day
+
+⚡ Exploring Modern Web Technologies
+
+🤝 Open to Collaboration on Open Source Projects
+
+🎯 Goal: Become a Skilled Full Stack Developer
 
 
 ---
@@ -27,13 +35,6 @@
 </p>
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PavelHaque2004&theme=tokyonight"/>
-</p>
-
----
 
 # 🚀 Featured Projects
 
